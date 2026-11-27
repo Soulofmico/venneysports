@@ -6,16 +6,21 @@ Every date below comes from the real GitHub commit history of [`Soulofmico/venne
 
 | | |
 |---|---|
-| Total commits | **26** |
-| Releases on GitHub | **21** (v8 to v22.2) |
+| Total commits | **28** |
+| Releases on GitHub | **22** (v8 to v22.3) |
 | Day 1 (first commit) | Tue Nov 24, 2026 · 2:16 PM CST ([`093fa9e`](https://github.com/Soulofmico/venneysports/commit/093fa9eb2b436901709369f3f009afd4b4e8aabb)) |
-| Latest release | Fri Nov 27, 2026 · 5:39 AM CST ([`e4930de`](https://github.com/Soulofmico/venneysports/commit/e4930de767c63f142adae30cf953ce197c06e0e8)) |
+| Latest release | Fri Nov 27, 2026 · 12:29 PM CST ([`900a292`](https://github.com/Soulofmico/venneysports/commit/900a2926d181ebbe2176a552b3c0b74e22ef165d)) |
 | Active days | 4 (Nov 24, Nov 25, Nov 26, Nov 27) |
-| Current live version | **v22.2** |
+| Current live version | **v22.3** |
 | Live app | https://soulofmico.github.io/venneysports/ |
-| Generated | Nov 27, 2026 · 5:39 AM CST |
+| Generated | Nov 27, 2026 · 12:29 PM CST |
 
 ## Releases (newest first)
+
+### v22.3 · Fri Nov 27, 2026 · 12:29 PM CST
+Home tagline ("The tracker that does the work. You just bet.") is now a bold bubble: 700-weight white text with a soft glow, lavender gradient fill, 1.5 px lavender border and a purple outer glow, on one line at 390 px and wrapping cleanly on narrower phones.
+
+Commit [`900a292`](https://github.com/Soulofmico/venneysports/commit/900a2926d181ebbe2176a552b3c0b74e22ef165d) · _v22.3: Home tagline is now a bold lavender bubble (700 weight, white text, gradient fill, 1.5px border, glow)_
 
 ### v22.2 · Fri Nov 27, 2026 · 5:39 AM CST
 Mid-size hamburger menu (228 px, up to about two-thirds of the screen, roomier rows, 18 px icons). New Badges page in the menu showing the 4 role badges (CEO / Owner, Admin, Staff / Team, Founding Tester). Membership is back in the menu with a Free / Starter / Veteran price strip, a compare table, and "Why upgrade" lists for Free to Starter and Starter to Veteran, matching Terms Section 8.
@@ -166,6 +171,8 @@ These builds were made on Day 1 before the repository existed. Times are the sav
 | 24 | Fri Nov 27, 2026 · 5:14 AM CST | [`c99a1ea`](https://github.com/Soulofmico/venneysports/commit/c99a1ea320f2921d0f382efa204c863d97a424de) | v22.1: compact hamburger dropdown (190px, max-height min(52vh,420px), internal scroll, tighter rows; never reaches bottom nav) |
 | 25 | Fri Nov 27, 2026 · 5:15 AM CST | [`b181e07`](https://github.com/Soulofmico/venneysports/commit/b181e07366094fee5497924cb688702dd5efd22e) | Changelog: add v22.1 (compact hamburger menu) |
 | 26 | Fri Nov 27, 2026 · 5:39 AM CST | [`e4930de`](https://github.com/Soulofmico/venneysports/commit/e4930de767c63f142adae30cf953ce197c06e0e8) | v22.2: mid-size menu, Badges info page, Membership back in menu with Free/Starter/Veteran comparison |
+| 27 | Fri Nov 27, 2026 · 5:39 AM CST | [`d592272`](https://github.com/Soulofmico/venneysports/commit/d592272c5413395f8d6081b1097eb73812e1ca24) | Changelog: add v22.2 (mid-size menu, Badges page, Membership comparison) |
+| 28 | Fri Nov 27, 2026 · 12:29 PM CST | [`900a292`](https://github.com/Soulofmico/venneysports/commit/900a2926d181ebbe2176a552b3c0b74e22ef165d) | v22.3: Home tagline is now a bold lavender bubble (700 weight, white text, gradient fill, 1.5px border, glow) |
 
 ---
-Source: GitHub API commit list for `main`, fetched Nov 27, 2026 5:39 AM CST. Each SHA links to the commit on GitHub.
+Source: GitHub API commit list for `main`, fetched Nov 27, 2026 12:29 PM CST. Each SHA links to the commit on GitHub.
