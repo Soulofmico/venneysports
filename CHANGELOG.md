@@ -6,16 +6,21 @@ Every date below comes from the real GitHub commit history of [`Soulofmico/venne
 
 | | |
 |---|---|
-| Total commits | **22** |
-| Releases on GitHub | **19** (v8 to v22) |
+| Total commits | **24** |
+| Releases on GitHub | **20** (v8 to v22.1) |
 | Day 1 (first commit) | Tue Nov 24, 2026 · 2:16 PM CST ([`093fa9e`](https://github.com/Soulofmico/venneysports/commit/093fa9eb2b436901709369f3f009afd4b4e8aabb)) |
-| Latest (v22) | Fri Nov 27, 2026 · 4:57 AM CST ([`34c8e49`](https://github.com/Soulofmico/venneysports/commit/34c8e49df995de7daadc9954a79b79946c90a1d3)) |
+| Latest release | Fri Nov 27, 2026 · 5:14 AM CST ([`c99a1ea`](https://github.com/Soulofmico/venneysports/commit/c99a1ea320f2921d0f382efa204c863d97a424de)) |
 | Active days | 4 (Nov 24, Nov 25, Nov 26, Nov 27) |
-| Current live version | **v22** |
+| Current live version | **v22.1** |
 | Live app | https://soulofmico.github.io/venneysports/ |
-| Generated | Nov 27, 2026 · 5:03 AM CST |
+| Generated | Nov 27, 2026 · 5:15 AM CST |
 
 ## Releases (newest first)
+
+### v22.1 · Fri Nov 27, 2026 · 5:14 AM CST
+Compact hamburger menu: 190 px wide, anchored under the menu button, height capped at about half the screen with smooth internal scrolling, tighter rows and 16 px icons. It no longer covers the screen or reaches the bottom nav.
+
+Commit [`c99a1ea`](https://github.com/Soulofmico/venneysports/commit/c99a1ea320f2921d0f382efa204c863d97a424de) · _v22.1: compact hamburger dropdown (190px, max-height min(52vh,420px), internal scroll, tighter rows; never reaches bottom nav)_
 
 ### v22 · Fri Nov 27, 2026 · 4:57 AM CST
 Edit Profile opens straight from the header profile icon: @username with validation, photo upload or 8 preset avatars, 160-character bio, opt-in public stats, hide-dollars toggle, live public card preview. Membership now opens a Membership screen; Veteran includes unlimited linked sportsbooks; Terms tier section matches the Membership screen.
@@ -152,6 +157,8 @@ These builds were made on Day 1 before the repository existed. Times are the sav
 | 20 | Fri Nov 27, 2026 · 4:34 AM CST | [`c06f534`](https://github.com/Soulofmico/venneysports/commit/c06f534d07d87687ae1e2e6d746dddf2eb13e7a8) | v20.3: Game Detail Odds & Lines cells are tappable (add to parlay + compare books), no login required |
 | 21 | Fri Nov 27, 2026 · 4:46 AM CST | [`294b6ab`](https://github.com/Soulofmico/venneysports/commit/294b6ab66e6c1fa15e797d16173db401c1a4919e) | v21 (VEN-26): app-wide flat logo-matched SVG icon system, emoji removed; Home tagline |
 | 22 | Fri Nov 27, 2026 · 4:57 AM CST | [`34c8e49`](https://github.com/Soulofmico/venneysports/commit/34c8e49df995de7daadc9954a79b79946c90a1d3) | v22 (VEN-27): Edit Profile from header icon; Membership opens Membership view; Veteran unlimited linked sportsbooks; Terms tier section synced |
+| 23 | Fri Nov 27, 2026 · 5:04 AM CST | [`46c141a`](https://github.com/Soulofmico/venneysports/commit/46c141a2875379abde5dd8da9e77240e633fa552) | Add development changelog (Day 1 through v22, CT timestamps, real commit SHAs) |
+| 24 | Fri Nov 27, 2026 · 5:14 AM CST | [`c99a1ea`](https://github.com/Soulofmico/venneysports/commit/c99a1ea320f2921d0f382efa204c863d97a424de) | v22.1: compact hamburger dropdown (190px, max-height min(52vh,420px), internal scroll, tighter rows; never reaches bottom nav) |
 
 ---
-Source: GitHub API commit list for `main`, fetched Nov 27, 2026 5:03 AM CST. Each SHA links to the commit on GitHub.
+Source: GitHub API commit list for `main`, fetched Nov 27, 2026 5:15 AM CST. Each SHA links to the commit on GitHub.
