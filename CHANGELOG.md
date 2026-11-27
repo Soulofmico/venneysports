@@ -6,16 +6,21 @@ Every date below comes from the real GitHub commit history of [`Soulofmico/venne
 
 | | |
 |---|---|
-| Total commits | **24** |
-| Releases on GitHub | **20** (v8 to v22.1) |
+| Total commits | **26** |
+| Releases on GitHub | **21** (v8 to v22.2) |
 | Day 1 (first commit) | Tue Nov 24, 2026 · 2:16 PM CST ([`093fa9e`](https://github.com/Soulofmico/venneysports/commit/093fa9eb2b436901709369f3f009afd4b4e8aabb)) |
-| Latest release | Fri Nov 27, 2026 · 5:14 AM CST ([`c99a1ea`](https://github.com/Soulofmico/venneysports/commit/c99a1ea320f2921d0f382efa204c863d97a424de)) |
+| Latest release | Fri Nov 27, 2026 · 5:39 AM CST ([`e4930de`](https://github.com/Soulofmico/venneysports/commit/e4930de767c63f142adae30cf953ce197c06e0e8)) |
 | Active days | 4 (Nov 24, Nov 25, Nov 26, Nov 27) |
-| Current live version | **v22.1** |
+| Current live version | **v22.2** |
 | Live app | https://soulofmico.github.io/venneysports/ |
-| Generated | Nov 27, 2026 · 5:15 AM CST |
+| Generated | Nov 27, 2026 · 5:39 AM CST |
 
 ## Releases (newest first)
+
+### v22.2 · Fri Nov 27, 2026 · 5:39 AM CST
+Mid-size hamburger menu (228 px, up to about two-thirds of the screen, roomier rows, 18 px icons). New Badges page in the menu showing the 4 role badges (CEO / Owner, Admin, Staff / Team, Founding Tester). Membership is back in the menu with a Free / Starter / Veteran price strip, a compare table, and "Why upgrade" lists for Free to Starter and Starter to Veteran, matching Terms Section 8.
+
+Commit [`e4930de`](https://github.com/Soulofmico/venneysports/commit/e4930de767c63f142adae30cf953ce197c06e0e8) · _v22.2: mid-size menu, Badges info page, Membership back in menu with Free/Starter/Veteran comparison_
 
 ### v22.1 · Fri Nov 27, 2026 · 5:14 AM CST
 Compact hamburger menu: 190 px wide, anchored under the menu button, height capped at about half the screen with smooth internal scrolling, tighter rows and 16 px icons. It no longer covers the screen or reaches the bottom nav.
@@ -159,6 +164,8 @@ These builds were made on Day 1 before the repository existed. Times are the sav
 | 22 | Fri Nov 27, 2026 · 4:57 AM CST | [`34c8e49`](https://github.com/Soulofmico/venneysports/commit/34c8e49df995de7daadc9954a79b79946c90a1d3) | v22 (VEN-27): Edit Profile from header icon; Membership opens Membership view; Veteran unlimited linked sportsbooks; Terms tier section synced |
 | 23 | Fri Nov 27, 2026 · 5:04 AM CST | [`46c141a`](https://github.com/Soulofmico/venneysports/commit/46c141a2875379abde5dd8da9e77240e633fa552) | Add development changelog (Day 1 through v22, CT timestamps, real commit SHAs) |
 | 24 | Fri Nov 27, 2026 · 5:14 AM CST | [`c99a1ea`](https://github.com/Soulofmico/venneysports/commit/c99a1ea320f2921d0f382efa204c863d97a424de) | v22.1: compact hamburger dropdown (190px, max-height min(52vh,420px), internal scroll, tighter rows; never reaches bottom nav) |
+| 25 | Fri Nov 27, 2026 · 5:15 AM CST | [`b181e07`](https://github.com/Soulofmico/venneysports/commit/b181e07366094fee5497924cb688702dd5efd22e) | Changelog: add v22.1 (compact hamburger menu) |
+| 26 | Fri Nov 27, 2026 · 5:39 AM CST | [`e4930de`](https://github.com/Soulofmico/venneysports/commit/e4930de767c63f142adae30cf953ce197c06e0e8) | v22.2: mid-size menu, Badges info page, Membership back in menu with Free/Starter/Veteran comparison |
 
 ---
-Source: GitHub API commit list for `main`, fetched Nov 27, 2026 5:15 AM CST. Each SHA links to the commit on GitHub.
+Source: GitHub API commit list for `main`, fetched Nov 27, 2026 5:39 AM CST. Each SHA links to the commit on GitHub.
