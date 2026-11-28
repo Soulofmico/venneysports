@@ -6,16 +6,21 @@ Every date below comes from the real GitHub commit history of [`Soulofmico/venne
 
 | | |
 |---|---|
-| Total commits | **28** |
-| Releases on GitHub | **22** (v8 to v22.3) |
+| Total commits | **30** |
+| Releases on GitHub | **23** (v8 to v22.4) |
 | Day 1 (first commit) | Tue Nov 24, 2026 · 2:16 PM CST ([`093fa9e`](https://github.com/Soulofmico/venneysports/commit/093fa9eb2b436901709369f3f009afd4b4e8aabb)) |
-| Latest release | Fri Nov 27, 2026 · 12:29 PM CST ([`900a292`](https://github.com/Soulofmico/venneysports/commit/900a2926d181ebbe2176a552b3c0b74e22ef165d)) |
+| Latest release | Fri Nov 27, 2026 · 9:24 PM CST ([`1c105f3`](https://github.com/Soulofmico/venneysports/commit/1c105f31232f0daaab3ac8dac62537eb0c6c78c2)) |
 | Active days | 4 (Nov 24, Nov 25, Nov 26, Nov 27) |
-| Current live version | **v22.3** |
+| Current live version | **v22.4** |
 | Live app | https://soulofmico.github.io/venneysports/ |
-| Generated | Nov 27, 2026 · 12:29 PM CST |
+| Generated | Nov 27, 2026 · 9:24 PM CST |
 
 ## Releases (newest first)
+
+### v22.4 · Fri Nov 27, 2026 · 9:24 PM CST
+Upload a sportsbook bet-slip screenshot on the Add Bet page (and a small shortcut on Game Detail). Tesseract.js reads the image on your phone — it is never uploaded — and parseSlip() pre-fills the book, bet type, pick, odds, stake (converted to units), and result. You review and tap Save before anything is stored. The parser is a standalone function so an AI-vision backend can replace it later.
+
+Commit [`1c105f3`](https://github.com/Soulofmico/venneysports/commit/1c105f31232f0daaab3ac8dac62537eb0c6c78c2) · _v22.4: upload a bet-slip screenshot and pre-fill Add Bet (on-device OCR, review before save, image never uploaded)_
 
 ### v22.3 · Fri Nov 27, 2026 · 12:29 PM CST
 Home tagline ("The tracker that does the work. You just bet.") is now a bold bubble: 700-weight white text with a soft glow, lavender gradient fill, 1.5 px lavender border and a purple outer glow, on one line at 390 px and wrapping cleanly on narrower phones.
@@ -173,6 +178,8 @@ These builds were made on Day 1 before the repository existed. Times are the sav
 | 26 | Fri Nov 27, 2026 · 5:39 AM CST | [`e4930de`](https://github.com/Soulofmico/venneysports/commit/e4930de767c63f142adae30cf953ce197c06e0e8) | v22.2: mid-size menu, Badges info page, Membership back in menu with Free/Starter/Veteran comparison |
 | 27 | Fri Nov 27, 2026 · 5:39 AM CST | [`d592272`](https://github.com/Soulofmico/venneysports/commit/d592272c5413395f8d6081b1097eb73812e1ca24) | Changelog: add v22.2 (mid-size menu, Badges page, Membership comparison) |
 | 28 | Fri Nov 27, 2026 · 12:29 PM CST | [`900a292`](https://github.com/Soulofmico/venneysports/commit/900a2926d181ebbe2176a552b3c0b74e22ef165d) | v22.3: Home tagline is now a bold lavender bubble (700 weight, white text, gradient fill, 1.5px border, glow) |
+| 29 | Fri Nov 27, 2026 · 12:30 PM CST | [`bed3513`](https://github.com/Soulofmico/venneysports/commit/bed3513997d7917cc6c8222e669b570e5b51549f) | Changelog: add v22.3 (bold bubble Home tagline) |
+| 30 | Fri Nov 27, 2026 · 9:24 PM CST | [`1c105f3`](https://github.com/Soulofmico/venneysports/commit/1c105f31232f0daaab3ac8dac62537eb0c6c78c2) | v22.4: upload a bet-slip screenshot and pre-fill Add Bet (on-device OCR, review before save, image never uploaded) |
 
 ---
-Source: GitHub API commit list for `main`, fetched Nov 27, 2026 12:29 PM CST. Each SHA links to the commit on GitHub.
+Source: GitHub API commit list for `main`, fetched Nov 27, 2026 9:24 PM CST. Each SHA links to the commit on GitHub.
