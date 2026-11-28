@@ -6,16 +6,21 @@ Every date below comes from the real GitHub commit history of [`Soulofmico/venne
 
 | | |
 |---|---|
-| Total commits | **30** |
-| Releases on GitHub | **23** (v8 to v22.4) |
+| Total commits | **32** |
+| Releases on GitHub | **24** (v8 to v22.5) |
 | Day 1 (first commit) | Tue Nov 24, 2026 · 2:16 PM CST ([`093fa9e`](https://github.com/Soulofmico/venneysports/commit/093fa9eb2b436901709369f3f009afd4b4e8aabb)) |
-| Latest release | Fri Nov 27, 2026 · 9:24 PM CST ([`1c105f3`](https://github.com/Soulofmico/venneysports/commit/1c105f31232f0daaab3ac8dac62537eb0c6c78c2)) |
-| Active days | 4 (Nov 24, Nov 25, Nov 26, Nov 27) |
-| Current live version | **v22.4** |
+| Latest release | Sat Nov 28, 2026 · 5:56 AM CST ([`460d2de`](https://github.com/Soulofmico/venneysports/commit/460d2de7da74786e51a870a1310bcab19c882dd0)) |
+| Active days | 5 (Nov 24, Nov 25, Nov 26, Nov 27, Nov 28) |
+| Current live version | **v22.5** |
 | Live app | https://soulofmico.github.io/venneysports/ |
-| Generated | Nov 27, 2026 · 9:24 PM CST |
+| Generated | Nov 28, 2026 · 5:56 AM CST |
 
 ## Releases (newest first)
+
+### v22.5 · Sat Nov 28, 2026 · 5:56 AM CST
+Trends adds a Key Games | All Games toggle (remembered on this device). All Games lists every ESPN game on today's slate for NBA, NFL, NCAAB, NCAAF and NHL, grouped into Live, Upcoming and Final, with a team search and Show more paging for large college slates. Each row uses the same split-tap (matchup → Game Detail, chevron → trends/breakdown) and the same data sources as Key Games; missing stats stay in the honest empty state. No extra Odds API calls.
+
+Commit [`460d2de`](https://github.com/Soulofmico/venneysports/commit/460d2de7da74786e51a870a1310bcab19c882dd0) · _v22.5: All Games on Trends (Key Games | All Games toggle, grouped slate, search, show more; same trends/breakdowns, no extra Odds API calls)_
 
 ### v22.4 · Fri Nov 27, 2026 · 9:24 PM CST
 Upload a sportsbook bet-slip screenshot on the Add Bet page (and a small shortcut on Game Detail). Tesseract.js reads the image on your phone — it is never uploaded — and parseSlip() pre-fills the book, bet type, pick, odds, stake (converted to units), and result. You review and tap Save before anything is stored. The parser is a standalone function so an AI-vision backend can replace it later.
@@ -180,6 +185,8 @@ These builds were made on Day 1 before the repository existed. Times are the sav
 | 28 | Fri Nov 27, 2026 · 12:29 PM CST | [`900a292`](https://github.com/Soulofmico/venneysports/commit/900a2926d181ebbe2176a552b3c0b74e22ef165d) | v22.3: Home tagline is now a bold lavender bubble (700 weight, white text, gradient fill, 1.5px border, glow) |
 | 29 | Fri Nov 27, 2026 · 12:30 PM CST | [`bed3513`](https://github.com/Soulofmico/venneysports/commit/bed3513997d7917cc6c8222e669b570e5b51549f) | Changelog: add v22.3 (bold bubble Home tagline) |
 | 30 | Fri Nov 27, 2026 · 9:24 PM CST | [`1c105f3`](https://github.com/Soulofmico/venneysports/commit/1c105f31232f0daaab3ac8dac62537eb0c6c78c2) | v22.4: upload a bet-slip screenshot and pre-fill Add Bet (on-device OCR, review before save, image never uploaded) |
+| 31 | Fri Nov 27, 2026 · 9:24 PM CST | [`37f4911`](https://github.com/Soulofmico/venneysports/commit/37f4911172a09b77182c75ebb48f21c51ea8d91c) | Changelog: add v22.4 (on-device bet-slip upload and review) |
+| 32 | Sat Nov 28, 2026 · 5:56 AM CST | [`460d2de`](https://github.com/Soulofmico/venneysports/commit/460d2de7da74786e51a870a1310bcab19c882dd0) | v22.5: All Games on Trends (Key Games \| All Games toggle, grouped slate, search, show more; same trends/breakdowns, no extra Odds API calls) |
 
 ---
-Source: GitHub API commit list for `main`, fetched Nov 27, 2026 9:24 PM CST. Each SHA links to the commit on GitHub.
+Source: GitHub API commit list for `main`, fetched Nov 28, 2026 5:56 AM CST. Each SHA links to the commit on GitHub.
